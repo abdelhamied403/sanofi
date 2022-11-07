@@ -1,0 +1,15 @@
+.nav-tabs li {
+  background-color: #eee;
+  text-align: center;
+}
+.nav-tabs li.active {
+  background-color: #7620e6;
+  color: white;
+}
+
+button.btn-primary {
+  background-color: #7620e6;
+}
+button.btn-primary:hover {
+  background-color: #6a18d6;
+}
